@@ -1,0 +1,38 @@
+# Sequencing data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+
+# Analysis-specific reference/input files
+*.fa
+*.fasta
+*.fna
+*.bed
+
+# Exception: keep lambda spike-in reference
+!reference/
+!reference/lambda_3.6kb.fasta
+
+# Alignment
+*.sam
+*.bam
+*.bai
+*.cram
+*.crai
+
+# FASTA index
+*.fai
+
+# Analysis output
+*.out
+*.NanoPlot/
+*NanoPlot/
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+
+# macOS
+.DS_Store
