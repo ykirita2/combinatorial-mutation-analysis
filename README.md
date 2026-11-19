@@ -198,3 +198,11 @@ Only the common lambda spike-in reference is included in the repository.
 This pipeline assumes that the reference FASTA contains a single amplicon sequence.
 
 Reads overlapping both the first and last bases of the reference are retained as full-length aligned reads. Secondary and supplementary alignments are excluded before sequence-pattern counting.
+
+## Combinatorial epistasis analysis of Cas12j
+
+The complete combinatorial epistasis analysis of Cas12j,
+including genotype-level measurements, Python analysis
+scripts, and derived results, is available in
+[epistasis/](epistasis/README.md).
+
