@@ -1,0 +1,3 @@
+library,n_low_order_genotypes,n_pairs,pearson_r
+N-segment,67,55,0.7214
+C-segment,56,45,0.2612

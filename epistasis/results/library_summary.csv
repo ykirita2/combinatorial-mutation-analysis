@@ -1,0 +1,3 @@
+library,genotypes_designed,genotypes_retained,retained_pct,read_count_threshold,substitutions,replicate_measurements,se_used,se_pooled_within_over_sqrt_k,se_paired_differences_over_sqrt_k,best_score,substitutions_in_best
+N-segment,2048,1823,89.0,888,11,4,0.092,0.0957,0.0904,0.7111,7
+C-segment,1024,1021,99.7,1647,10,2,0.031,0.0314,0.0212,0.3856,6
